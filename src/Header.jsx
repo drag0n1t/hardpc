@@ -5,7 +5,7 @@ function Header() {
     <header>
       <div className='header-container'>
         <div className="logo-container">
-          <img src="img/Material-Redhat.png" alt="Logo" className="logo" />
+          <img src="https://hpc4lvxhausdigeg.public.blob.vercel-storage.com/Material-Redhat-XGR4kLYs7tmCVOIS8uD4dVKRxVYTQx.png" alt="Logo" className="logo" />
           <h1>HardPC</h1>
         </div>
         <nav>
